@@ -1,0 +1,11 @@
+# إعدادات بناء تطبيق MO7 Truth or Dare
+# هذا الملف يوضح إعداد المشروع؛ يتطلب بناء APK بيئة Android/Gradle.
+app:
+  name: MO7 Truth or Dare
+  version: 1.0.0
+  platform: android
+  web_directory: .
+  entry_file: index.html
+  offline_ready: true
+  developer: mo7.gd
+  website: https://mo7gd.github.io/

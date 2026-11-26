@@ -1,0 +1,6 @@
+{
+  "appId": "gd.mo7.truthordare",
+  "appName": "MO7 Truth or Dare",
+  "webDir": ".",
+  "bundledWebRuntime": false
+}
